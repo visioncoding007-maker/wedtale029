@@ -1,0 +1,8 @@
+{
+  "name": "payment gateway connection ",
+  "description": "Pastel Romance & Lilac Garden Dreams wedding invitation website for Pulkit & Shreya at The Oberoi Rajvilas, Jaipur with interactive 3D gatefold invitation card, gold scratch keepsake, ceremony itinerary, live petal blessings, Shagun & gift gateway for relatives, and music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
